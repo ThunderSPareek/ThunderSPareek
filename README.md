@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Springboot, Java, HTML-5 , CSS, JS and SQL**
 
-- 📫 How to reach me **<a>www.spareek.com</a>**
+- 📫 How to reach me **[https://www.spareek.com</a>**
 
 - 📄 Know about my experiences [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
